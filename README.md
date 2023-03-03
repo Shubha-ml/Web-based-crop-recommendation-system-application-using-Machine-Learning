@@ -13,7 +13,7 @@ Web based crop recommendation system application using Machine Learning
 # Activity Diagram
 ![image](https://user-images.githubusercontent.com/76995828/222655233-a2ee249b-a400-45c5-8463-88d94e7c01cd.png)
 
-#Sequence Diagram
+# Sequence Diagram
 ![image](https://user-images.githubusercontent.com/76995828/222655379-3b8cae22-accc-44e9-b6ec-37666bd74abb.png)
 
 # Application Setup
